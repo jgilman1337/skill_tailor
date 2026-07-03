@@ -1,29 +1,16 @@
 package bullet_tailor
 
-import (
-	"strconv"
-	"strings"
+const (
+	SchemaID          = "https://github.com/jgilman1337/bullet_tailor/result_schema.go"
+	SchemaName        = "bulleted_list"
+	SchemaDescription = "A list of bullet points for a job resume."
+
+	defaultMin = 5
+	defaultMax = 5
 )
 
-// resultSchema provides the constraint schema for the results from OpenAI's response.
-const resultSchema = `{
-	"$id": "https://example.com/address.schema.json",
-	"$schema": "https://json-schema.org/draft/2020-12/schema",
-	"description": "A list of bullet points for a job resume.",
-	"type": "array",
-	"minItems": {{itemsMin}},
-	"maxItems": {{itemsMax}},
-	"items": {
-		"type": "string",
-		"minLength": 1
-	}
-}`
-
-const defaultMin = 5
-const defaultMax = 5
-
 // GetResultSchema returns the result schema with the given min and max number of items.
-func GetResultSchema(min, max int) string {
+func GetResultSchema(min, max int) map[string]any {
 	// Use default values if not provided or max is less than min
 	if min < 1 {
 		min = defaultMin
@@ -35,9 +22,18 @@ func GetResultSchema(min, max int) string {
 		max = min
 	}
 
-	// Override templates at runtime without any runtime file access.
-	return strings.NewReplacer(
-		"{{itemsMin}}", strings.TrimSpace(strconv.Itoa(min)),
-		"{{itemsMax}}", strings.TrimSpace(strconv.Itoa(max)),
-	).Replace(resultSchema)
+	// OpenAI's JSON schema response_format requires `schema` to be a JSON object, so encode as a map[string]any
+	return map[string]any{
+		"$id":         SchemaID,
+		"$schema":     "https://json-schema.org/draft/2020-12/schema",
+		"title":       SchemaName,
+		"description": SchemaDescription,
+		"type":        "array",
+		"minItems":    min,
+		"maxItems":    max,
+		"items": map[string]any{
+			"type":      "string",
+			"minLength": 1,
+		},
+	}
 }

@@ -1,0 +1,57 @@
+Junior Software Developer
+EagleForce Associates, Inc.
+·
+1.0
+Herndon, VA
+Full-time
+Apply now
+Job details
+Pay information not provided
+401(k), Health insurance, 401(k) matching, Paid time off, Vision insurance, Dental insurance, Disability insurance
+Full-time
+Herndon, VA
+Full job description
+
+We build software and interfaces to derive intelligence from unstructured data by combining advanced data visualization, mathematical models and big data processing techniques. Our software suite is used to make strategic decisions at some of the largest companies in the world.
+
+Experience: We are looking for Junior web/mobile developers with 2 years of web/mobile application development experience. Minimum a Bachelor’s degree is required in Computer Science/ Electrical Engineering/ Computer Engineering or related from an accredited university or college.
+
+Basic Requirements:
+
+1. Programming language: any of web development languages such as, Ruby, Python, PHP, Java, JavaScript, etc or mobile development languages such as Swift, ReactNative, Kotlin, etc.
+
+2. Database knowledge: SQL, MySQL preferred.
+
+3. Knowledge about Linux environment, Git, and Agile Development environment.
+
+4. Must be versatile and problem solver.
+
+Skills: As a part of our team, you will either be familiar with or learn the following skills: Ruby On Rails, Hands-on experience in standard web frameworks and languages (HTML, CSS, Javacript, AJAX)Knowledge of standard web service development frameworks and methodologies (SOAP and RESTful)Experience with standard SQL MySQL or SQLServerFamiliar with UI design frameworks such as: jQuery, Bootstrap, AngularJS;Experience with Ajax, JSON, SQL.
+
+Job Type: Full-time
+
+Work Remotely
+
+    No
+
+Job Type: Full-time
+
+Benefits:
+
+    401(k)
+    401(k) matching
+    Dental insurance
+    Disability insurance
+    Health insurance
+    Paid time off
+    Vision insurance
+
+Education:
+
+    Bachelor's (Required)
+
+Ability to Commute:
+
+    Herndon, VA (Required)
+
+Work Location: In person

@@ -1,0 +1,101 @@
+Asset & Wealth Management - Software Engineer - Associate - Dallas- job post
+Goldman Sachs
+3.9
+3.9 out of 5 stars
+100 Crescent Court, Suite 1000, Dallas, TX 75201
+Goldman Sachs
+100 Crescent Court, Suite 1000, Dallas, TX 75201
+You must create an Indeed account before continuing to the company website to apply
+Benefits
+Pulled from the full job description
+
+Childcare
+Parental leave
+Health insurance
+Dental insurance
+Adoption assistance
+Life insurance
+Employee assistance program
+Disability insurance
+Pension plan
+&nbsp;
+Full job description
+What We Do
+
+At Goldman Sachs, our Engineers don’t just make things – we make things possible. Change the world by connecting people and capital with ideas. Solve the most challenging and pressing engineering problems for our clients. Join our engineering teams that build massively scalable software and systems, architect low latency infrastructure solutions, proactively guard against cyber threats, and leverage machine learning alongside financial engineering to continuously turn data into action. Create new businesses, transform finance, and explore a world of opportunity at the speed of markets.
+
+Engineering, which is comprised of our Technology Division and global strategists’ groups, is at the critical center of our business, and our dynamic environment requires innovative strategic thinking and immediate, real solutions. Want to push the limit of digital possibilities? Start here.
+
+Who We Look For
+
+Goldman Sachs Engineers are innovators and problem-solvers, building solutions in risk management, big data, mobile and more. We look for creative collaborators who evolve, adapt to change and thrive in a fast-paced global environment.
+
+Asset and Wealth Management (AWM)
+
+Bringing together traditional and alternative investments, we provide clients around the world with a dedicated partnership and focus on long-term performance. As the firm’s primary investment area, we provide investment and advisory services for some of the world’s leading pension plans, sovereign wealth funds, insurance companies, endowments, foundations, financial advisors and individuals, for which we oversee more than $2 trillion in assets under supervision. Working in a culture that values integrity and transparency, you will be part of a diverse team that is passionate about our craft, our clients, and building sustainable success. We are:
+
+Investors, spanning traditional and alternative markets offering products and services
+Advisors, understanding our clients’ priorities and poised to help provide investment advice and strategies that make sense for their portfolios
+Thought Leaders, providing timely insights across macro and secular themes to help inform our clients’ investment decisions
+Innovators, using our suite of digital solutions to help our clients address complex challenges and meet their financial goal
+What You’ll Do:
+
+Are you a seasoned Full Stack Engineer with over 5 years of experience? Do you thrive in dynamic, fast-paced environments and have a passion for building cutting-edge financial solutions? Join our elite team and lead the charge in revolutionizing the investment banking industry!
+
+The Digital Technology team is seeking a Digital Software Engineer for the Asset Management Division in the Digital team in New York. This is your opportunity to make a significant impact by leading innovative projects and collaborating with top-tier professionals in the field.
+
+4 years of relevant experience
+Utilize your strong knowledge of Java, Spring Boot, RESTful services, ReactJS (or other UI frameworks) to develop robust and scalable applications
+Apply your basic knowledge of multi-threading and OAuth with Spring Security to ensure secure and efficient applications
+Develop and integrate with Restful web services to enhance application functionality
+Implement test-driven development practices using frameworks like JUnit
+Apply your expertise in SQL and NoSQL to develop robust data solutions
+Utilize your experience with build systems such as Gradle, Maven, and Git-CI/CD to streamline development workflows
+Embrace Agile Operating Models to foster a collaborative and efficient team environment
+Work with a variety of technical and non-technical stakeholders to deliver high-quality products
+Demonstrate strong written and verbal communication skills to articulate ideas and solutions clearly
+Approach problem-solving with an open mind within the context of a team, leveraging collective expertise
+Apply your exceptional analytical skills to make informed, creative, and commercially viable decisions
+Collaborate with globally located cross-functional teams to build customer-centric products
+Preferred Skills:
+
+Experience with microservice architecture to build scalable applications
+Awareness of code quality tools like SonarQube to maintain high standards
+Knowledge of distributed systems and low-latency services
+Previous experience in financial services or fintech is a significant advantage
+Knowledge of AWS services is a nice-to-have
+Experience with containerization and orchestration tools such as Docker and Kubernetes is beneficial
+Experience with Kafka and MongoDB is a plus
+Ability to establish trusted partnerships with product heads and executive-level stakeholders
+ABOUT GOLDMAN SACHS
+
+At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world. We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. about our culture, benefits, and people at GS.com/careers.
+
+We’re committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. : https://www.goldmansachs.com/careers/footer/disability-statement.html©
+
+The Goldman Sachs Group, Inc., 2023. All rights reserved.
+
+Goldman Sachs is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, veterans status, disability, or any other characteristic protected by applicable law.
+
+We Offer Best-In-Class Benefits
+Healthcare & Medical Insurance
+We offer a wide range of health and welfare programs that vary depending on office location. These generally include medical, dental, short-term disability, long-term disability, life, accidental death, labor accident and business travel accident insurance.
+Holiday & Vacation Policies
+We offer competitive vacation policies based on employee level and office location. We promote time off from work to recharge by providing generous vacation entitlements and a minimum of three weeks expected vacation usage each year.
+Financial Wellness & Retirement
+We assist employees in saving and planning for retirement, offer financial support for higher education, and provide a number of benefits to help employees prepare for the unexpected. We offer live financial education and content on a variety of topics to address the spectrum of employees’ priorities.
+Health Services
+We offer a medical advocacy service for employees and family members facing critical health situations, and counseling and referral services through the Employee Assistance Program (EAP). We provide Global Medical, Security and Travel Assistance and a Workplace Ergonomics Program. We also offer state-of-the-art on-site health centers in certain offices.
+Fitness
+To encourage employees to live a healthy and active lifestyle, some of our offices feature on-site fitness centers. For eligible employees we typically reimburse fees paid for a fitness club membership or activity (up to a pre-approved amount).
+Child Care & Family Care
+We offer on-site child care centers that provide full-time and emergency back-up care, as well as mother and baby rooms and homework rooms. In every office, we provide advice and counseling services, expectant parent resources and transitional programs for parents returning from parental leave. Adoption, surrogacy, egg donation and egg retrieval stipends are also available.
+Benefits at Goldman Sachs
+Read more about the full suite of class-leading benefits our firm has to offer.
+
+Opportunity Overview
+CORPORATE TITLEAssociate
+OFFICE LOCATION(S)Dallas
+JOB FUNCTIONSoftware Engineering
+DIVISIONAsset & Wealth Management
+&nbsp;

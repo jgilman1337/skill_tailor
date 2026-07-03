@@ -1,0 +1,103 @@
+Senior Software Development Engineer- job post
+Teledyne FLIR
+3.0
+3.0 out of 5 stars
+1024 South Innovation Way Drive, Stillwater, OK 74074
+Full-time
+Teledyne FLIR
+1024 South Innovation Way Drive, Stillwater, OK 74074
+You must create an Indeed account before continuing to the company website to apply
+Job details
+Job type
+Full-time
+Work setting
+In-person
+&nbsp;
+Benefits
+Pulled from the full job description
+
+401(k)
+Health insurance
+Paid time off
+Vision insurance
+Dental insurance
+Relocation assistance
+&nbsp;
+Full job description
+About Teledyne FLIR Defense
+
+Join Teledyne FLIR Defense, where we're dedicated to safeguarding lives with cutting-edge sensing and threat detection technologies. Our arsenal includes advanced surveillance sensors, handheld devices, unmanned vehicles, lasers, and more solutions that increase operational effectiveness for warfighters, first responders, and search-and-rescue teams.
+
+We're looking for passionate innovators eager to shape the future of the Defense industry. If you’re mission-driven to globally collaborate on life-saving solutions, we invite you to explore our current opportunities.
+
+Job Summary
+
+The Senior Software Engineer is a self-directed leader that works on team projects to provide a broad range of software development expertise for various applications. The candidate will be responsible for all software engineering lifecycle processes including requirements gathering, analysis, design, documentation, programming, debugging, unit testing, new development, and sustaining existing applications. They solve the most challenging problems and may assist with managing other software engineers. This position includes involvement with the customer, internal hardware and software teams, and subcontractors. Other responsibilities include planning, tracking, and meeting work commitments.
+
+Primary Duties & Responsibilities:
+
+Programming in Java using IntelliJ
+New development and sustaining of existing applications
+Desktop and Server Ubuntu 22.04 for development and deployment
+Source code management using Git
+Issue tracking using Jira
+Written communication (e.g., Jira, Confluence, documents, spreadsheets, presentations, email)
+May be responsible for any/all stages in the software engineering lifecycle: requirements gathering, analysis, design, documentation, programming, debugging, and unit testing
+Estimate, track and report scope and effort for tasks
+Managing and coordinating tasks for an engineering team
+Developing software in a team
+Developing software in a larger integrated system
+Apply troubleshooting techniques and overcome challenges
+Work at a Teledyne office with access to project hardware
+Work within a geographically disperse team
+Periodic travel for integration sessions at other sites and supporting build, test, or customer events
+Continual growth as tools and technologies advance
+Develop and maintain an understanding of the system and equipment that is controlled.
+Support the engineering change process used by Teledyne FLIR
+This position requires U.S. Citizenship.
+
+Required Job Qualifications:
+
+Applicants must be a U.S. person
+BS or MS degree in Computer Science or equivalent
+Expert at Java
+Expert problem-solving skills
+Expert at multi-threaded programming and debugging
+Expert at Git
+Experience with network configuration and tools (e.g., ssh, scp)
+Experience managing a team of engineers
+Excellent written and verbal communication skills
+Ability to develop detailed plans for a task, accurately estimate the effort, and track progress
+Ability to track issues/changes with or without an issue tracking system and generate a change log
+Ability to overcome challenges and make tradeoffs between an ideal solution and what is possible given project constraints
+Preferred Job Qualifications:
+
+Minimum 10 years relevant experience in software development preferred
+Expert at integrating and working with network and serial devices
+Expert with Ubuntu 22.04 (or newer) OS.
+OS and package configuration
+Development, debugging, and deployment tasks from a remote console (e.g., ssh)
+Experience with C++ and Bash scripting
+Experience with Android and Windows OS.
+Experience with Android Studio and developing Android applications
+Experience with ATAK plugin development
+Experience with Integrated Sensor Architecture (IAS)
+Experience with Military Standard Software Development and Documentation (MIL-STD-498)
+Ability to create mockups and rapid prototypes
+Ability to read schematics and mechanical drawings
+Understanding of software security practices
+Teledyne and all of our employees are committed to conducting business with the highest ethical standards. We require all employees to comply with all applicable laws, regulations, rules and regulatory orders. Our reputation for honesty, integrity and high ethics is as important to us as our reputation for making innovative sensing solutions.
+
+Teledyne is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age, or any other characteristic or non-merit based factor made unlawful by federal, state, or local laws. ​
+
+Job Type: Full-time
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Relocation assistance
+Vision insurance
+Work Location: In person
