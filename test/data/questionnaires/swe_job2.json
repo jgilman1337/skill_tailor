@@ -1,6 +1,6 @@
 [
 	{
-		"question": "What was your official job title, employer, employment dates, and industry (e.g., fintech, healthcare, devtools)? Add a 1-2 sentence blurb about what the industry is and what your company did in it.",
+		"question": "What was your official job title, employer, employment dates, and industry (e.g., fintech, healthcare, devtools)? Is the job still active? Add a 1-2 sentence blurb about what the industry is and what your company did in it.",
 		"answer": "Software Engineer II at CloudQuill (developer tooling/SaaS), Feb 2022 to May 2025. The devtools space builds platforms that help teams write, search, and maintain documentation at scale—turning knowledge into fast, reliable developer workflows."
 	},
 	{

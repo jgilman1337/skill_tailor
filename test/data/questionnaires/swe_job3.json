@@ -1,6 +1,6 @@
 [
 	{
-		"question": "What was your official job title, employer, employment dates, and industry (e.g., fintech, healthcare, devtools)? Add a 1-2 sentence blurb about what the industry is and what your company did in it.",
+		"question": "What was your official job title, employer, employment dates, and industry (e.g., fintech, healthcare, devtools)? Is the job still active? Add a 1-2 sentence blurb about what the industry is and what your company did in it.",
 		"answer": "Senior Software Engineer at AeroPay (fintech payments), Jun 2019 to Jul 2026. Payments infrastructure is high-stakes software that must be secure, auditable, and correct under retries and failures. AeroPay processed card and ACH transactions for merchants and provided ledger, settlement, and reconciliation services."
 	},
 	{
