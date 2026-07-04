@@ -9,8 +9,11 @@ const (
 	defaultMax = 5
 )
 
-// GetResultSchema returns the result schema with the given min and max number of items.
-func GetResultSchema(min, max int) map[string]any {
+// BulletedList is a list of bullet points for a job resume.
+type BulletedList []string
+
+// GetBulletedListSchema returns the bullet list schema with the given min and max number of items.
+func GetBulletedListSchema(min, max int) map[string]any {
 	// Use default values if not provided or max is less than min
 	if min < 1 {
 		min = defaultMin
