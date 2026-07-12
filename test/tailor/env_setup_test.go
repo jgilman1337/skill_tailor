@@ -1,9 +1,10 @@
-package test
+package tailor_test
 
 import (
 	"testing"
 
 	"github.com/jgilman1337/skill_tailor"
+	common_test "github.com/jgilman1337/skill_tailor/test/common"
 )
 
 func TestInitGPTConfig_DefaultsWhenEnvUnset(t *testing.T) {
@@ -16,7 +17,7 @@ func TestInitGPTConfig_DefaultsWhenEnvUnset(t *testing.T) {
 	t.Setenv("OPENAI_TOP_P", "")
 
 	// Get the auth and params from the environment
-	auth, params := InitGPTConfig(t)
+	auth, params := common_test.InitGPTConfig(t)
 
 	// Verify the auth and params are set correctly
 	if auth.Endpoint != skill_tailor.DefaultGPTAuth().Endpoint {
@@ -50,7 +51,7 @@ func TestInitGPTConfig_OverridesFromEnv(t *testing.T) {
 	t.Setenv("OPENAI_TOP_P", "0.2")
 
 	// Get the auth and params from the environment
-	auth, params := InitGPTConfig(t)
+	auth, params := common_test.InitGPTConfig(t)
 
 	// Verify the auth and params are set correctly
 	if auth.Endpoint != "http://example.local/v1" {

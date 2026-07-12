@@ -1,4 +1,4 @@
-package test
+package tailor_test
 
 import (
 	"encoding/json"
@@ -9,6 +9,7 @@ import (
 	"time"
 
 	skill_tailor "github.com/jgilman1337/skill_tailor"
+	common_test "github.com/jgilman1337/skill_tailor/test/common"
 )
 
 func TestInferIntegration(t *testing.T) {
@@ -34,7 +35,7 @@ func TestInferIntegration(t *testing.T) {
 	}
 
 	// Create a GPT config and inference client
-	auth, params := InitGPTConfig(t)
+	auth, params := common_test.InitGPTConfig(t)
 	client := skill_tailor.NewInferClient(auth)
 
 	// Create the inference arguments
