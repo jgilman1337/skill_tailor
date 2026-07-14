@@ -1,4 +1,4 @@
-package skill_tailor
+package tailor
 
 const (
 	SchemaID          = "https://github.com/jgilman1337/skill_tailor/result_schema.go"

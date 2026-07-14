@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/caarlos0/env/v11"
-	"github.com/jgilman1337/skill_tailor"
+	skill_tailor "github.com/jgilman1337/skill_tailor/pkg/tailor"
 )
 
 // InitGPTConfig initializes the GPT auth + params configuration structs

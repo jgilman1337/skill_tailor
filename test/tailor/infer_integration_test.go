@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	skill_tailor "github.com/jgilman1337/skill_tailor"
+	tailor "github.com/jgilman1337/skill_tailor/pkg/tailor"
 	common_test "github.com/jgilman1337/skill_tailor/test/common"
 )
 
@@ -23,7 +23,7 @@ func TestInferIntegration(t *testing.T) {
 	if err != nil {
 		t.Fatalf("failed to read questionnaire: %v", err)
 	}
-	var questionnaire skill_tailor.Questionnaire
+	var questionnaire tailor.Questionnaire
 	if err := json.Unmarshal(formBytes, &questionnaire); err != nil {
 		t.Fatalf("failed to unmarshal questionnaire: %v", err)
 	}
@@ -36,20 +36,20 @@ func TestInferIntegration(t *testing.T) {
 
 	// Create a GPT config and inference client
 	auth, params := common_test.InitGPTConfig(t)
-	client := skill_tailor.NewInferClient(auth)
+	client := tailor.NewInferClient(auth)
 
 	// Create the inference arguments
-	args := &skill_tailor.InferArgs{
+	args := &tailor.InferArgs{
 		JobListing:    strings.TrimSpace(string(jobBytes)),
 		MinBullets:    5,
 		MaxBullets:    5,
 		Questionnaire: &questionnaire,
-		SystemPrompt:  skill_tailor.DefaultPrompt,
+		SystemPrompt:  tailor.DefaultPrompt,
 		Timeout:       60 * time.Second,
 	}
 
 	// Infer the bulleted list and ensure the number of bullets is within the expected range
-	bulletedList, err := skill_tailor.Infer(client, params, args)
+	bulletedList, err := tailor.Infer(client, params, args)
 	if err != nil {
 		t.Fatalf("Infer failed: %v", err)
 	}
