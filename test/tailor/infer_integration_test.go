@@ -19,7 +19,7 @@ func TestInferIntegration(t *testing.T) {
 	}
 
 	// Read the questionnaire and unmarshal it
-	formBytes, err := os.ReadFile("data/questionnaires/swe_job1.json")
+	formBytes, err := os.ReadFile("../data/questionnaires/swe_job1.json")
 	if err != nil {
 		t.Fatalf("failed to read questionnaire: %v", err)
 	}
@@ -29,7 +29,7 @@ func TestInferIntegration(t *testing.T) {
 	}
 
 	// Read the job listing and unmarshal it
-	jobBytes, err := os.ReadFile("data/job_listings/job1.txt")
+	jobBytes, err := os.ReadFile("../data/job_listings/job1.txt")
 	if err != nil {
 		t.Fatalf("failed to read job listing: %v", err)
 	}
